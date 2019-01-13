@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 20px;
+    height: 75%;
+    font-family:serif
+  }
+  
+  a {
+    color:blue ;
+    text-align: right
+  }
+  
+  header {
+    padding: 10px;
+    background:navy ;
+    color:whitesmoke ;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+  }
+  
+  nav {
+    background-color:goldenrod ;
+  }
+  
+  nav ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-align: right
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+    padding: text-indent;
+  }
+  
+  section {
+    width: 95%;
+    margin: 0px auto;
+    padding: 5px;
+    min-height: 800px;
+  }
+  
+  section img {
+    margin-top: 20px;
+  }
+  
+  footer {
+    clear: left;
+    padding: 10px;
+    background: navy;
+    color: whitesmoke
+    text-align:center

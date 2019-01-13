@@ -1,0 +1,45 @@
+header {
+    padding: 10px;
+    background: navy;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+   }
+   
+   nav {
+    background-color: goldenrod;
+   }
+   
+   nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+   }
+   
+   nav ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+   }
+   section img {
+    margin-top: 20px;
+    width: 40%
+   }
+   section article {
+    width: 30%;
+    margin: 0 auto;
+    padding: 5px;
+    min-height: 800px;
+    
+   }
+   
+   
+   
+   footer {
+    clear: left;
+    padding: 10px;
+    color: whitesmoke;
+    background: navy;
+    text-align: center;
+   }
